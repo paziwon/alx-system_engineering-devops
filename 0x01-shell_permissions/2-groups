@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 groups
+=======
+/etc/passwd
+>>>>>>> dbd2d900e15032ea83582292700a3aa6d00a013b
