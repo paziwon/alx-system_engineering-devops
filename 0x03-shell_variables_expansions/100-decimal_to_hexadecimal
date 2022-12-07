@@ -1,7 +1,2 @@
-<<<<<<< HEAD
 #!/bin/bash
 echo -e "$(printf "%x" "$DECIMAL")"
-=======
-#!/bin/bash
-printf "%x\n" $DECIMAL
->>>>>>> refs/remotes/origin/master

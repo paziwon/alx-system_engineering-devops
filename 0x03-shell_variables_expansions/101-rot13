@@ -1,7 +1,2 @@
-<<<<<<< HEAD
 #!/bin/bash
 tr 'A-Za-z' 'N-ZA-Mn-za-m'
-=======
-#!/bin/bash
-tr 'A-Za-z' N-ZA-mn-za-m'
->>>>>>> refs/remotes/origin/master
